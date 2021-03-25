@@ -1,6 +1,14 @@
 package curso.requerimiento1;
 
 public class CalculoDeAreasApp {
+	
+	/*
+	 * Crear el algoritmo para calcular el área de un rectángulo y un triángulo 
+	 * rectángulo de altura 3 metros y la base de 4 metros.
+	 * 
+	 * Nota: Resolver usando variables enteras, int, con un algoritmo de 
+	 * programación estructurada. 
+	 */
 
 	public static void main(String[] args) {
 
